@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dokyeong</title>
+</head>
+<body style="font-family: times">
+
+	<div>
+		<h1>HI!!!</h1>
+		<p>This is a paragraph.</p>
+	</div>
+	<ul>
+		<li style="color: blue; font-weight: 600">blah 1</li>
+		<li>blah 2</li>
+		<li>blah 3</li>
+		<li>blah 4</li>
+	</ul>
+	<ol>
+		<li>blah 1</li>
+		<li>blah 2</li>
+		<li>blah 3</li>
+		<li>blah 4</li>
+	</ol>
+
+</body>
+</html>
+
+
+style="color: purple; font-weight: 600"

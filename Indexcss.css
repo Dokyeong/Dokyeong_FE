@@ -1,0 +1,48 @@
+body{
+  background: #e91ec50f;
+}
+
+  .txtcolor1{
+    color:#607d8b;
+    text-align: center;
+  }
+
+  .gotomid{
+    text-align: center;
+  }
+
+  .titles{
+    font-size: 20px;
+    color:#607d8b;
+    text-align: center;
+    font-weight:600;
+  }
+
+  .bulletpoints{
+    list-style:none;
+    text-align: center;
+  }
+
+  .type1{
+    display:inline-block;
+    width:30%;
+  }
+
+  .type2{
+    display:inline-block;
+    float:right;
+    width:50%;
+  }
+
+  #rounded{
+    border-radius: 25px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+  }
+
+  #sizeup{
+    font-size: 25px;
+    color: black;
+  }
