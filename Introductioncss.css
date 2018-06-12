@@ -1,26 +1,13 @@
 body{
   background:#c9ccee30;
 }
-#subexplain{
-  color: #001b807d;
-  font-size: 10px;
-  display: inline-block;
-  width:40%;
-}
-
-#title{
-  color:#ff00008c;
-  font-size: 30px;
+#taiwan{
+  color: #260080a6;;
+  font-size: 20px;
   font-weight: bold;
+  font-family: cursive;
 }
 
-.color{
-  color:blue;
-}
-
-@media only screen and (max-width: 600px) and (min-width: 200px) {
-  body{
-    font-style: italic;
-    font-size: 60px;
-  }
+#sizevid{
+  width:20%;
 }
